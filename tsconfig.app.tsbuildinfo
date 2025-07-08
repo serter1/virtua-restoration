@@ -1,0 +1,1 @@
+{"root":["./tsup.config.ts","./dist/index.d.cts","./dist/index.d.ts","./src/index.ts","./src/components/windowvirtualized.tsx"],"version":"5.8.3"}
