@@ -5,12 +5,12 @@
 [![npm downloads](https://img.shields.io/npm/dm/virtua-restoration?color=362c7e&labelColor=261f58&style=flat-square)](https://www.npmjs.com/package/virtua-restoration)
 
 # Virtua Restoration
-It is a wrapper component that facilitates virtual listing with the `virtua` library by storing scroll position and cache information in React applications.
+It is a wrapper component that facilitates virtual listing with the [`virtua`](https://github.com/inokawa/virtua) library by storing scroll position and cache information in React applications.
 
 ## ✨ Features
 - Maintains scroll position when doing virtual listing.
 - Provides cache management with `sessionStorage`, `localStorage` or custom (e.g. Zustand).
-- Works with the `virtua` library.
+- Works with the [`virtua`](https://github.com/inokawa/virtua) library.
 - Prevents scroll and cache loss on route transitions or page refreshes.
 
 ## 📦 Installation
