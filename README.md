@@ -43,7 +43,7 @@ export default function Example() {
 
 ```
 
-### `localStorage` ile kullanım
+### Use with `localStorage`
 ```typescript
 import { WindowVirtualizedList } from 'virtua-restoration'
 
@@ -61,7 +61,7 @@ export default function Example() {
 
 ```
 
-### `zustand` ile kullanım
+### Usage with `zustand`
 ```typescript
 // store/virtualListStore.ts
 import { create } from 'zustand'
