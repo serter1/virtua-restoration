@@ -21,9 +21,9 @@ https://virtua-restoration.vercel.app
 ## 📦 Installation
 ```bash
 pnpm add virtua-restoration
-# veya
+# or
 npm install virtua-restoration
-# veya
+# or
 yarn add virtua-restoration
 ```
 
