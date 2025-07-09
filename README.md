@@ -8,6 +8,9 @@
 # Virtua Restoration
 It is a wrapper component that facilitates virtual listing with the [`virtua`](https://github.com/inokawa/virtua) library by storing scroll position and cache information in React applications.
 
+## 🧪 Demo
+https://virtua-restoration.vercel.app
+
 ## ✨ Features
 - Maintains scroll position when doing virtual listing.
 - Provides cache management with `sessionStorage`, `localStorage` or custom (e.g. Zustand).
