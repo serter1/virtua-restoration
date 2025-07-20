@@ -3,7 +3,7 @@
 [![NPM Version](https://img.shields.io/npm/v/virtua-restoration?style=flat-square&labelColor=261f58&color=362c7e)](https://www.npmjs.com/package/virtua-restoration)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-06172C?labelColor=261f58&color=362c7e&style=flat-square)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-06172C?labelColor=261f58&color=362c7e&style=flat-square)](https://opensource.org/licenses/MIT)
-[![npm downloads](https://img.shields.io/npm/dm/virtua-restoration?color=362c7e&labelColor=261f58&style=flat-square)](https://www.npmjs.com/package/virtua-restoration)
+[![npm downloads](https://img.shields.io/npm/dy/virtua-restoration?color=362c7e&labelColor=261f58&style=flat-square)](https://www.npmjs.com/package/virtua-restoration)
 [![CI](https://img.shields.io/github/actions/workflow/status/serter1/virtua-restoration/publish.yml?color=362c7e&labelColor=261f58&style=flat-square&label=CI)](https://github.com/serter1/virtua-restoration/actions)
 
 # Virtua Restoration
