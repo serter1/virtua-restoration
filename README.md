@@ -20,11 +20,11 @@ https://virtua-restoration.vercel.app
 
 ## 📦 Installation
 ```bash
-pnpm add virtua-restoration
+pnpm add virtua virtua-restoration
 # or
-npm install virtua-restoration
+npm install virtua virtua-restoration
 # or
-yarn add virtua-restoration
+yarn add virtua virtua-restoration
 ```
 
 ## 🚀 Usage
