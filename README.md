@@ -27,6 +27,13 @@ npm install virtua virtua-restoration
 yarn add virtua virtua-restoration
 ```
 
+## 📚 Peer Dependencies
+| Package          | Version                                    |
+| ---------------- | ------------------------------------------ |
+| react            | >=19.0.0                                   |
+| react-dom	       | >=19.0.0                                   |
+| virtua           | >=0.41.5                                   |
+
 ## 🚀 Usage
 
 ### Basic Usage (with `sessionStorage`) | [Demo](https://virtua-restoration.vercel.app/sessionstorage)
