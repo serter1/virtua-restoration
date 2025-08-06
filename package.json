@@ -16,7 +16,7 @@
 "peerDependencies": {
   "react": ">=19.0.0",
   "react-dom": ">=19.0.0",
-  "virtua": "^0.41.5"
+  "virtua": ">=0.41.5"
 }
   "devDependencies": {
     "@types/react": "^19.1.8",
