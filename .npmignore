@@ -1,0 +1,13 @@
+src/
+docs/
+node_modules/
+public/
+vite/
+dist/**/*.map
+*.tsbuildinfo
+tsconfig*.json
+vite.config.ts
+tsup.config.ts
+eslint.config.js
+index.html
+pnpm-lock.yaml

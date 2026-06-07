@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/components/virtualizedlist.tsx","./src/components/windowvirtualized.tsx","./src/components/getcacheprovider.tsx","./src/types/cacheprovider.ts","./src/types/cachesource.ts","./src/utils/validatelicense.ts"],"version":"5.8.3"}
